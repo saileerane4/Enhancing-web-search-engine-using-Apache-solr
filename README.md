@@ -1,7 +1,7 @@
 # Enhancing-web-search-engine-using-Apache-solr
 Implementing Autocomplete and spelling correction using Apache Solr
 
-The steps followed:
+## Steps:
 
 1.)	Wrote a Java program using Apache Tika to extract the text content from the body of the html pages of CNN news to a single document.
 
