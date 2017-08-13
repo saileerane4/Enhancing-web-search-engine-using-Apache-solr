@@ -2,6 +2,7 @@
 Implementing Autocomplete and spelling correction using Apache Solr
 
 The steps followed:
+
 1.)	Wrote a Java program using Apache Tika to extract the text content from the body of the html pages of CNN news to a single document.
 2.)	Saved the output as Big.txt which was later used for Norvig’s spell correction.
 3.)	Wrote another Java program to extract the contents of the html downloaded files separately using html parser provided by Apache Tika and saved the text file with the original file name.
